@@ -16,11 +16,11 @@ Steps
 4 - Enjoy ! :)
 
 Details
---> Run on any version of Google Chrome to make easy
---> Run npm install
+* > Run on any version of Google Chrome to make easy
+* > Run npm install
 more information: 
-  link: https://nodejs.org/en/
-  link: https://reactjs.org/tutorial/tutorial.html
+  *link: https://nodejs.org/en/
+  *link: https://reactjs.org/tutorial/tutorial.html
 
 Run The Project
 * npm run build
