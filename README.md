@@ -10,10 +10,10 @@ Tools
 - NodeJS
 
 Steps
-1 - Clone the project from Github using HTTPS
-2 - In VStudio2017, open an existing project
-3 - Inside the project, install ReactJS and the packages
-4 - Enjoy ! :)
+* 1 - Clone the project from Github using HTTPS
+* 2 - In VStudio2017, open an existing project
+* 3 - Inside the project, install ReactJS and the packages
+* 4 - Enjoy ! :)
 
 Details
 *  Run on any version of Google Chrome to make easy
