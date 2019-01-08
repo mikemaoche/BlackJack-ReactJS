@@ -33,6 +33,9 @@ Errors Encounters
 * -- May need to rename the folder if it doesn't work 
     * -> folder BlackJack-ReactJS renamed for Card-Game
 
+Status
+* 90% Done ! Note: Cards won't display the symbols, only display the back side.
+
 Any Questions, feel free to ask me !
 Cheers,
 Mike
